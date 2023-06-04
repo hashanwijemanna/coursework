@@ -1,0 +1,17 @@
+@charset "UTF-8";
+.product {
+  margin-bottom: 20px;
+}
+
+#cart {
+  margin-top: 40px;
+}
+
+#cart-items {
+  list-style-type: none;
+  padding: 0;
+}
+
+#cart-items li {
+  margin-bottom: 10px;
+}
